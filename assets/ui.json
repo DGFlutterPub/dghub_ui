@@ -1,0 +1,21 @@
+{
+  "ui": {
+     "design": "main"
+  },
+  "appbar" : {
+    "design": "simple",
+    "height": 60,
+    "background_color": null,
+    "forground_color": null
+  },
+  "theme": {
+     "is_dark_mode": false,
+     "light_background": "#fff8f8f8",
+     "light_primary":"",
+     "light_icon": "",
+     "dark_background": "#ff1e2631",
+     "dark_primary":"",
+     "dark_icon": ""
+  }
+
+}
